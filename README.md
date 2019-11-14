@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raineydavid/docplex-examples/binder)
+
 # IBM® Decision Optimization Modeling for Python (DOcplex)
 
 Welcome to the IBM® Decision Optimization Modeling for Python.
